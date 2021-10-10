@@ -10,9 +10,7 @@ sites:
     maxResponseTime: 700
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
   - name: Discord FunTasticBot
-    check: "tcp-ping"
-    url: https://rootk1d.xyz
-    port: 2222
+    url: https://rootk1d.xyz/discord-ftb
     maxResponseTime: 300
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
   - name: PaD-Organizer Demo Page
