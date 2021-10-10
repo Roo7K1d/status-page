@@ -17,7 +17,7 @@ sites:
     url: https://rootk1d.xyz/pad-demo
     maxResponseTime: 600
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png
-  - name: github-repo-list Demo Page
+  - name: Github-Repo-List Demo Page
     url: https://rootk1d.xyz/repos
     maxResponseTime: 500
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png
