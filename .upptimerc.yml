@@ -19,7 +19,7 @@ sites:
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png
   - name: github-repo-list Demo Page
     url: https://rootk1d.xyz/repos
-    maxResponseTime: 700
+    maxResponseTime: 500
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png
   - name: RP-Police-Database Demo Page
     url: https://rootk1d.xyz/police
