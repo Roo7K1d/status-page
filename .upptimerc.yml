@@ -32,6 +32,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://rootk1d.xyz
+    - title: Discord
+      href: https://discord.gg/QQaWvMkFbs
     - title: GitHub
       href: https://github.com/$OWNER
 
