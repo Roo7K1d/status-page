@@ -7,8 +7,6 @@ assignees:
 sites:
   - name: Rootk1d.xyz
     url: https://rootk1d.xyz
-    check: "udp-ping"
-    port: 80
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
   - name: Discord FunTasticBot
     check: "udp-ping"
@@ -17,13 +15,9 @@ sites:
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
   - name: PaD-Organizer Demo Page
     url: https://rootk1d.xyz/pad-demo
-    check: "udp-ping"
-    port: 80
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png
   - name: RP-Police-Database Demo Page
     url: https://rootk1d.xyz/police
-    check: "udp-ping"
-    port: 80
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png
 
 
