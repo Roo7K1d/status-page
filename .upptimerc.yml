@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/47664151?v=4
   name: RootK1d Services Status
-  introTitle: "A real time service monitor"
+  introTitle: "Services Uptime Monitor"
   introMessage: This lists all my publicly available projects and services.
   navbar:
     - title: Status
