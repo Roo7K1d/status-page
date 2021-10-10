@@ -5,6 +5,8 @@ assignees:
   - Roo7K1d
 
 sites:
+  - name: test
+    url: 84.158.18.3
   - name: Rootk1d.xyz
     url: https://rootk1d.xyz
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
