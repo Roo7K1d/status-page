@@ -9,7 +9,7 @@ sites:
     url: https://rootk1d.xyz
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
   - name: Discord FunTasticBot
-    check: "tcp-ping"
+    check: "udp-ping"
     url: https://rootk1d.xyz
     port: 2222
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
