@@ -26,7 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://camo.githubusercontent.com/3decb51956fb910a92f2c59227261efc8349be135f20e92c93ba423f25cc7970/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3832303431363232343030353538363934352f3838373034313037323830313338363536362f67697475625f70726f66696c652e706e67
   name: RootK1d Services Status
-  theme: night
+  theme: ocean
   introTitle: "Services Uptime Monitor"
   introMessage: This lists all my publicly available projects and services.
   navbar:
