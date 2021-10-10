@@ -45,6 +45,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER
       
+      
 workflowSchedule:
   graphs: "*/2 * * * *"
   responseTime: "*/2 * * * *"
