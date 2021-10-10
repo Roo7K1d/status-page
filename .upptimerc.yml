@@ -6,14 +6,18 @@ repo: status-page # The name of this repository
 sites:
   - name: Rootk1d.xyz
     url: https://rootk1d.xyz
+    favicon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
   - name: Discord FunTasticBot
     check: "tcp-ping"
     url: https://rootk1d.xyz
     port: 2222
+    favicon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
   - name: PaD-Organizer Demo Page
     url: https://rootk1d.xyz/pad-demo
+    favicon: https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png
   - name: RP-Police-Database Demo Page
     url: https://rootk1d.xyz/police
+    favicon: https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
