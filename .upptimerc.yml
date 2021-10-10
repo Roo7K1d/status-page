@@ -10,7 +10,7 @@ sites:
     maxResponseTime: 700
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
   - name: Discord FunTasticBot
-    check: "udp-ping"
+    check: "tcp-ping"
     url: https://rootk1d.xyz
     port: 2222
     maxResponseTime: 300
