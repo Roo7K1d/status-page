@@ -9,6 +9,10 @@ sites:
     check: "tcp-ping"
     url: https://rootk1d.xyz
     port: 2222
+  - name: PaD-Organizer Demo Page
+    url: https://rootk1d.xyz/pad-demo
+  - name: RP-Police-Database Demo Page
+    url: https://rootk1d.xyz/police
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
