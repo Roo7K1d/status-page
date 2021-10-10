@@ -11,10 +11,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rootk1d.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/47664151?v=4
   name: RootK1d Services Status
-  introTitle: "This is the uptime status monitor for all my services and projects that are publicly available"
-  introMessage: This uses real time data in order to be as exact as possible
+  introTitle: "A real time service monitor"
+  introMessage: This lists all my publicly available projects and services.
   navbar:
     - title: Status
       href: /
