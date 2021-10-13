@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 427,
+    "timeDay": 425,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
@@ -80,19 +80,19 @@
     "url": "https://rootk1d.xyz/police",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png",
     "slug": "rp-police-database-demo-page",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 517,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 516,
     "timeDay": 520,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 4
     }
   }
 ]
