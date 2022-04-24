@@ -23,7 +23,7 @@ sites:
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png
   - name: RP-Police-Database Demo Page
     url: https://rootk1d.xyz/police
-    maxResponseTime: 900
+    maxResponseTime: 1200
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png
 
 status-website:
