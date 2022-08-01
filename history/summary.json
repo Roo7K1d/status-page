@@ -4,19 +4,19 @@
     "url": "https://rootk1d.xyz",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png",
     "slug": "rootk1d-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "17.96%",
-    "uptimeWeek": "26.61%",
+    "uptimeDay": "18.69%",
+    "uptimeWeek": "25.86%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 428,
-    "timeDay": 331,
-    "timeWeek": 360,
+    "timeDay": 320,
+    "timeWeek": 356,
     "timeMonth": 377,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-08-01": 737,
+      "2022-08-01": 813,
       "2022-07-31": 1164,
       "2022-07-30": 1276,
       "2022-07-29": 1203,
@@ -87,8 +87,7 @@
       "2021-11-28": 771,
       "2021-11-27": 297,
       "2021-11-23": 26,
-      "2021-11-22": 51,
-      "2021-11-21": 25
+      "2021-11-22": 51
     }
   },
   {
@@ -96,19 +95,19 @@
     "url": "https://rootk1d.xyz/discord-ftb",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png",
     "slug": "discord-fun-tastic-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "18.86%",
-    "uptimeWeek": "26.76%",
+    "uptimeDay": "19.56%",
+    "uptimeWeek": "25.99%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 286,
-    "timeWeek": 241,
+    "timeDay": 259,
+    "timeWeek": 242,
     "timeMonth": 371,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-08-01": 731,
+      "2022-08-01": 809,
       "2022-07-31": 1155,
       "2022-07-30": 1285,
       "2022-07-29": 1194,
@@ -197,7 +196,7 @@
       "2021-11-19": 1440,
       "2021-11-18": 1440,
       "2021-11-17": 1283,
-      "2021-11-05": 48
+      "2021-11-05": 21
     }
   },
   {
@@ -205,19 +204,19 @@
     "url": "https://rootk1d.xyz/pad-demo",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png",
     "slug": "pa-d-organizer-demo-page",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "19.72%",
-    "uptimeWeek": "28.01%",
+    "uptimeDay": "20.39%",
+    "uptimeWeek": "27.22%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 513,
-    "timeDay": 722,
-    "timeWeek": 574,
+    "timeDay": 726,
+    "timeWeek": 570,
     "timeMonth": 642,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-08-01": 724,
+      "2022-08-01": 804,
       "2022-07-31": 1146,
       "2022-07-30": 1283,
       "2022-07-29": 1137,
@@ -289,7 +288,7 @@
       "2022-04-26": 588,
       "2022-04-19": 59,
       "2022-04-17": 867,
-      "2022-04-16": 428
+      "2022-04-16": 380
     }
   },
   {
@@ -297,19 +296,19 @@
     "url": "https://rootk1d.xyz/repos",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png",
     "slug": "github-repo-list-demo-page",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "20.59%",
-    "uptimeWeek": "28.56%",
+    "uptimeDay": "21.23%",
+    "uptimeWeek": "27.74%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 398,
-    "timeDay": 615,
-    "timeWeek": 486,
-    "timeMonth": 656,
+    "timeDay": 609,
+    "timeWeek": 485,
+    "timeMonth": 657,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-08-01": 719,
+      "2022-08-01": 801,
       "2022-07-31": 1137,
       "2022-07-30": 1276,
       "2022-07-29": 1136,
@@ -387,8 +386,7 @@
       "2021-11-20": 638,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
-      "2021-11-17": 1283,
-      "2021-11-05": 27
+      "2021-11-17": 1283
     }
   },
   {
@@ -396,19 +394,19 @@
     "url": "https://rootk1d.xyz/police",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png",
     "slug": "rp-police-database-demo-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "21.45%",
-    "uptimeWeek": "29.86%",
+    "uptimeDay": "22.06%",
+    "uptimeWeek": "29.02%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 559,
-    "timeDay": 900,
-    "timeWeek": 617,
-    "timeMonth": 746,
+    "timeDay": 896,
+    "timeWeek": 621,
+    "timeMonth": 749,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2022-08-01": 713,
+      "2022-08-01": 797,
       "2022-07-31": 1128,
       "2022-07-30": 1281,
       "2022-07-29": 1115,
@@ -450,7 +448,7 @@
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1095,
-      "2022-04-23": 599
+      "2022-04-23": 557
     }
   }
 ]
