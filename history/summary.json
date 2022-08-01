@@ -6,17 +6,17 @@
     "slug": "rootk1d-xyz",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "17.79%",
-    "uptimeWeek": "24.44%",
+    "uptimeDay": "19.24%",
+    "uptimeWeek": "23.58%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 428,
-    "timeDay": 312,
-    "timeWeek": 352,
+    "timeDay": 306,
+    "timeWeek": 349,
     "timeMonth": 375,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2022-08-01": 956,
+      "2022-08-01": 1043,
       "2022-07-31": 1164,
       "2022-07-30": 1276,
       "2022-07-29": 1203,
@@ -85,8 +85,7 @@
       "2021-12-03": 1260,
       "2021-11-30": 21,
       "2021-11-28": 771,
-      "2021-11-27": 297,
-      "2021-11-23": 26
+      "2021-11-27": 297
     }
   },
   {
@@ -96,17 +95,17 @@
     "slug": "discord-fun-tastic-bot",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "18.65%",
-    "uptimeWeek": "24.60%",
+    "uptimeDay": "19.96%",
+    "uptimeWeek": "23.75%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 199,
-    "timeWeek": 244,
-    "timeMonth": 373,
+    "timeDay": 213,
+    "timeWeek": 248,
+    "timeMonth": 376,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-08-01": 949,
+      "2022-08-01": 1034,
       "2022-07-31": 1155,
       "2022-07-30": 1285,
       "2022-07-29": 1194,
@@ -190,11 +189,7 @@
       "2021-11-30": 1182,
       "2021-11-28": 771,
       "2021-11-27": 297,
-      "2021-11-22": 51,
-      "2021-11-20": 645,
-      "2021-11-19": 1440,
-      "2021-11-18": 1440,
-      "2021-11-17": 1283
+      "2021-11-22": 51
     }
   },
   {
@@ -204,17 +199,17 @@
     "slug": "pa-d-organizer-demo-page",
     "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "19.49%",
-    "uptimeWeek": "25.86%",
+    "uptimeDay": "20.67%",
+    "uptimeWeek": "25.03%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 513,
-    "timeDay": 758,
-    "timeWeek": 573,
-    "timeMonth": 643,
+    "timeDay": 892,
+    "timeWeek": 588,
+    "timeMonth": 648,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-08-01": 941,
+      "2022-08-01": 1025,
       "2022-07-31": 1146,
       "2022-07-30": 1283,
       "2022-07-29": 1137,
@@ -286,7 +281,7 @@
       "2022-04-26": 588,
       "2022-04-19": 59,
       "2022-04-17": 867,
-      "2022-04-16": 336
+      "2022-04-16": 310
     }
   },
   {
@@ -296,17 +291,17 @@
     "slug": "github-repo-list-demo-page",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "20.33%",
-    "uptimeWeek": "26.41%",
+    "uptimeDay": "21.42%",
+    "uptimeWeek": "25.61%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 398,
-    "timeDay": 517,
-    "timeWeek": 488,
-    "timeMonth": 659,
+    "timeDay": 473,
+    "timeWeek": 491,
+    "timeMonth": 661,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-08-01": 935,
+      "2022-08-01": 1016,
       "2022-07-31": 1137,
       "2022-07-30": 1276,
       "2022-07-29": 1136,
@@ -379,8 +374,7 @@
       "2021-12-23": 17,
       "2021-12-07": 49,
       "2021-11-28": 771,
-      "2021-11-27": 297,
-      "2021-11-22": 51
+      "2021-11-27": 297
     }
   },
   {
@@ -390,17 +384,17 @@
     "slug": "rp-police-database-demo-page",
     "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "21.16%",
-    "uptimeWeek": "27.72%",
+    "uptimeDay": "22.14%",
+    "uptimeWeek": "26.94%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 559,
-    "timeDay": 901,
-    "timeWeek": 631,
-    "timeMonth": 753,
+    "timeDay": 1066,
+    "timeWeek": 651,
+    "timeMonth": 761,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2022-08-01": 928,
+      "2022-08-01": 1008,
       "2022-07-31": 1128,
       "2022-07-30": 1281,
       "2022-07-29": 1115,
@@ -442,7 +436,7 @@
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1095,
-      "2022-04-23": 512
+      "2022-04-23": 427
     }
   }
 ]
