@@ -4,14 +4,14 @@
     "url": "https://rootk1d.xyz",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png",
     "slug": "rootk1d-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "10.61%",
-    "uptimeWeek": "19.03%",
+    "uptimeDay": "11.25%",
+    "uptimeWeek": "19.02%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 428,
-    "timeDay": 296,
+    "timeDay": 295,
     "timeWeek": 334,
     "timeMonth": 372,
     "timeYear": 428,
@@ -73,8 +73,7 @@
       "2022-02-25": 553,
       "2022-02-12": 21,
       "2022-02-06": 25,
-      "2022-01-16": 19,
-      "2022-01-15": 61
+      "2022-01-16": 19
     }
   },
   {
@@ -82,19 +81,19 @@
     "url": "https://rootk1d.xyz/discord-ftb",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png",
     "slug": "discord-fun-tastic-bot",
-    "status": "up",
+    "status": "degraded",
     "uptime": "0.00%",
-    "uptimeDay": "11.48%",
-    "uptimeWeek": "18.87%",
+    "uptimeDay": "11.99%",
+    "uptimeWeek": "18.84%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 197,
-    "timeDay": 299,
-    "timeWeek": 264,
-    "timeMonth": 375,
+    "timeDay": 326,
+    "timeWeek": 268,
+    "timeMonth": 376,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-08-02": 1218,
+      "2022-08-02": 1221,
       "2022-08-01": 1123,
       "2022-07-31": 1155,
       "2022-07-30": 1285,
@@ -169,8 +168,7 @@
       "2022-02-25": 553,
       "2022-02-17": 23,
       "2022-02-12": 21,
-      "2022-01-16": 19,
-      "2022-01-15": 61
+      "2022-01-16": 19
     }
   },
   {
@@ -178,19 +176,19 @@
     "url": "https://rootk1d.xyz/pad-demo",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png",
     "slug": "pa-d-organizer-demo-page",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "12.27%",
-    "uptimeWeek": "19.78%",
+    "uptimeDay": "12.63%",
+    "uptimeWeek": "19.72%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 513,
-    "timeDay": 517,
-    "timeWeek": 592,
+    "timeDay": 516,
+    "timeWeek": 591,
     "timeMonth": 646,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2022-08-02": 1207,
+      "2022-08-02": 1212,
       "2022-08-01": 1113,
       "2022-07-31": 1146,
       "2022-07-30": 1283,
@@ -263,7 +261,7 @@
       "2022-04-26": 588,
       "2022-04-19": 59,
       "2022-04-17": 867,
-      "2022-04-16": 105
+      "2022-04-16": 79
     }
   },
   {
@@ -271,19 +269,19 @@
     "url": "https://rootk1d.xyz/repos",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png",
     "slug": "github-repo-list-demo-page",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "12.92%",
-    "uptimeWeek": "20.27%",
+    "uptimeDay": "13.16%",
+    "uptimeWeek": "20.20%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 398,
-    "timeDay": 760,
-    "timeWeek": 536,
+    "timeDay": 750,
+    "timeWeek": 535,
     "timeMonth": 667,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-08-02": 1201,
+      "2022-08-02": 1208,
       "2022-08-01": 1102,
       "2022-07-31": 1137,
       "2022-07-30": 1276,
@@ -348,8 +346,7 @@
       "2022-02-26": 1440,
       "2022-02-25": 553,
       "2022-02-17": 23,
-      "2022-02-14": 30,
-      "2022-02-12": 21
+      "2022-02-14": 30
     }
   },
   {
@@ -357,19 +354,19 @@
     "url": "https://rootk1d.xyz/police",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png",
     "slug": "rp-police-database-demo-page",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "14.52%",
-    "uptimeWeek": "21.58%",
+    "uptimeDay": "14.69%",
+    "uptimeWeek": "21.49%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 559,
-    "timeDay": 713,
-    "timeWeek": 675,
+    "timeDay": 704,
+    "timeWeek": 674,
     "timeMonth": 762,
     "timeYear": 559,
     "dailyMinutesDown": {
-      "2022-08-02": 1177,
+      "2022-08-02": 1186,
       "2022-08-01": 1093,
       "2022-07-31": 1128,
       "2022-07-30": 1281,
@@ -411,8 +408,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1095,
-      "2022-04-23": 51
+      "2022-04-24": 1095
     }
   }
 ]
