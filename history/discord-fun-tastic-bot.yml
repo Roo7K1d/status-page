@@ -1,7 +1,7 @@
 url: https://rootk1d.xyz/discord-ftb
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2022-08-13T22:49:06.098Z
+status: degraded
+code: 523
+responseTime: 2684
+lastUpdated: 2022-08-13T23:43:16.180Z
 startTime: Mon Jul 25 2022 14:42:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
