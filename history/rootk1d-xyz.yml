@@ -1,7 +1,7 @@
 url: https://rootk1d.xyz
-status: up
-code: 200
-responseTime: 323
-lastUpdated: 2022-08-13T22:49:04.217Z
+status: degraded
+code: 523
+responseTime: 3213
+lastUpdated: 2022-08-13T23:43:03.599Z
 startTime: Mon Jul 25 2022 14:42:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
