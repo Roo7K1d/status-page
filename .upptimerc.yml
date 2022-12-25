@@ -9,10 +9,10 @@ sites:
     url: https://rootk1d.xyz
     maxResponseTime: 900
     icon: https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png
-  - name: Discord FunTasticBot
-    url: https://rootk1d.xyz/discord-ftb
-    maxResponseTime: 500
-    icon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
+  # - name: Discord FunTasticBot
+  #  url: https://rootk1d.xyz/discord-ftb
+  #  maxResponseTime: 500
+  #  icon: https://cdn.discordapp.com/attachments/742731876170465310/896682890073612348/images.png
   - name: PaD-Organizer Demo Page
     url: https://rootk1d.xyz/pad-demo
     maxResponseTime: 800
