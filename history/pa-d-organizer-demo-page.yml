@@ -1,7 +1,7 @@
 url: https://rootk1d.xyz/pad-demo
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2023-02-21T20:48:43.314Z
+status: degraded
+code: 523
+responseTime: 3210
+lastUpdated: 2023-02-21T20:58:55.046Z
 startTime: Mon Jul 25 2022 14:42:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
