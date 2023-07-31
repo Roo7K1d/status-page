@@ -4,18 +4,19 @@
     "url": "https://rootk1d.xyz",
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png",
     "slug": "rootk1d-xyz",
-    "status": "up",
-    "uptime": "90.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "90.19%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.00%",
+    "uptimeYear": "90.05%",
     "time": 393,
-    "timeDay": 354,
+    "timeDay": 355,
     "timeWeek": 357,
     "timeMonth": 353,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2023-07-31": 1,
       "2023-07-27": 19,
       "2023-02-24": 162,
       "2023-02-23": 1440,
@@ -61,7 +62,7 @@
       "2022-08-07": 1350,
       "2022-08-06": 1275,
       "2022-08-05": 1225,
-      "2022-08-04": 452
+      "2022-08-04": 228
     }
   },
   {
@@ -226,7 +227,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "92.93%",
     "time": 499,
-    "timeDay": 507,
+    "timeDay": 508,
     "timeWeek": 509,
     "timeMonth": 465,
     "timeYear": 499,
