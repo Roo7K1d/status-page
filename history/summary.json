@@ -5,13 +5,13 @@
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896683113239937064/RootK1d.png",
     "slug": "rootk1d-xyz",
     "status": "up",
-    "uptime": "90.47%",
+    "uptime": "90.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "91.59%",
-    "time": 393,
-    "timeDay": 356,
+    "uptimeYear": "91.84%",
+    "time": 392,
+    "timeDay": 352,
     "timeWeek": 349,
     "timeMonth": 353,
     "timeYear": 393,
@@ -53,8 +53,7 @@
       "2022-08-16": 1418,
       "2022-08-15": 1414,
       "2022-08-14": 1401,
-      "2022-08-13": 1397,
-      "2022-08-12": 1419
+      "2022-08-13": 1397
     }
   },
   {
@@ -63,15 +62,15 @@
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896685452080320562/pad_ico.png",
     "slug": "pa-d-organizer-demo-page",
     "status": "up",
-    "uptime": "83.76%",
+    "uptime": "83.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "84.42%",
+    "uptimeYear": "84.69%",
     "time": 489,
     "timeDay": 481,
     "timeWeek": 472,
-    "timeMonth": 459,
+    "timeMonth": 461,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2023-07-27": 18,
@@ -143,8 +142,7 @@
       "2022-08-16": 1408,
       "2022-08-15": 1408,
       "2022-08-14": 1408,
-      "2022-08-13": 1391,
-      "2022-08-12": 1418
+      "2022-08-13": 1391
     }
   },
   {
@@ -153,18 +151,17 @@
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896721537313431622/github.png",
     "slug": "github-repo-list-demo-page",
     "status": "up",
-    "uptime": "93.41%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "94.69%",
+    "uptime": "93.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "94.94%",
     "time": 379,
-    "timeDay": 392,
+    "timeDay": 367,
     "timeWeek": 368,
-    "timeMonth": 354,
-    "timeYear": 379,
+    "timeMonth": 355,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-08-10": 11,
       "2023-03-27": 24,
       "2023-02-24": 131,
       "2023-02-23": 1440,
@@ -189,8 +186,7 @@
       "2022-08-16": 1405,
       "2022-08-15": 1404,
       "2022-08-14": 1400,
-      "2022-08-13": 1387,
-      "2022-08-12": 1418
+      "2022-08-13": 1387
     }
   },
   {
@@ -199,15 +195,15 @@
     "icon": "https://cdn.discordapp.com/attachments/742731876170465310/896686450811232256/police_ico.png",
     "slug": "rp-police-database-demo-page",
     "status": "up",
-    "uptime": "93.23%",
+    "uptime": "93.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "94.50%",
-    "time": 498,
-    "timeDay": 515,
-    "timeWeek": 511,
-    "timeMonth": 489,
+    "uptimeYear": "94.75%",
+    "time": 497,
+    "timeDay": 509,
+    "timeWeek": 512,
+    "timeMonth": 491,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2023-07-28": 19,
@@ -237,8 +233,7 @@
       "2022-08-16": 1399,
       "2022-08-15": 1402,
       "2022-08-14": 1405,
-      "2022-08-13": 1385,
-      "2022-08-12": 1418
+      "2022-08-13": 1385
     }
   }
 ]
