@@ -1,7 +1,7 @@
 url: https://rootk1d.xyz/police
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-01T02:12:56.962Z
+status: degraded
+code: 522
+responseTime: 19874
+lastUpdated: 2025-03-01T03:04:28.137Z
 startTime: 2022-07-25T14:42:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
